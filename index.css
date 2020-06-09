@@ -1,0 +1,73 @@
+.color1{
+	background-color:#A64AC9;
+}
+
+.color2{
+	background-color:#FCCD04;
+}
+
+.color3{
+	background-color:#FFB48F;
+}
+
+.color4{
+	background-color:#F5E6CC;
+}
+
+.color5{
+	background-color:#17E9E0;
+}
+
+
+.footer-logo{
+	height:80px;
+	background-color:white;
+	border:solid black;
+}
+.footer{
+  background: #152F4F;
+  color:white;
+  
+  .links{
+    ul {list-style-type: none;}
+    li a{
+      color: white;
+      transition: color .2s;
+      &:hover{
+        text-decoration:none;
+        color:#4180CB;
+        }
+    }
+  }  
+  .about-company{
+    i{font-size: 25px;}
+    a{
+      color:white;
+      transition: color .2s;
+      &:hover{color:#4180CB}
+    }
+  } 
+  .location{
+    i{font-size: 18px;}
+  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+
+
+
+
+
+.theme-photos li{
+
+	list-style-type:none;
+	display:inline-block;
+	size:20%;
+
+
+}
+
+.theme-photos img{
+	size:100%;
+	
+}
+

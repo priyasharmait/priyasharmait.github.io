@@ -1,0 +1,53 @@
+.service-options{
+	font-family:sans-serif;
+	display:inline-block;
+	width:70%;
+}
+
+.service-options li{
+	
+	list-style-type:none;
+	display:inline-block;
+	border:solid #c7c3bcdb 1px;
+	margin:10px;
+	padding:10px;
+	padding-bottom:40px;
+
+}
+
+
+.service-list img{
+	width:100%;
+	border:solid;
+
+	
+
+}
+
+
+.service-list h3{
+	font-size:30px;
+	color:#2f5b83;
+	
+}
+
+.service-list p{
+	font-size:15px;
+	line-height:1.5;
+	
+}
+
+.service-list a{
+	border:solid #47a4ca 1px;
+	border-radius:20px;
+	padding:10px;
+    font-variant:small-caps;
+    text-decoration:none;
+
+
+
+}
+
+.service-list a:hover{
+	background-color:#20b4e4;
+}
